@@ -1,118 +1,93 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alessandro Bombini",
+    "label": "Technologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "bombini@fi.infn.it",
+    "phone": "",
+    "url": "https://androbomb.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via Bruno Rossi 1",
+      "postalCode": "50019",
+      "city": "Sesto Fiorentino (FI)",
+      "countryCode": "Italy",
+      "region": ""
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "ICSC - Centro Nazionale di Ricerca in HPC, Big Data e Quantum Computing",
+      "position": "Associato",
+      "url": "https://www.supercomputing-icsc.it",
+      "startDate": "2023-05-15",
+      "endDate": "",
+      "summary": "He works as a fixed-term technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within Spoke 2 'Fundamental Research', WP2 'High Energy Physics' and WP6 'Industrial Applications & Space Economy'. He acts as Principal Investigator (PI) for the Flagship of 2.6.1. Fast Extended Computer Vision dedicated to distributed computing applications for the inference of neural networks dedicated to artificial vision on physical imaging. Collaborates within the WP2 Innovation Grant dedicated to Physics Informed Neural Networks applications on the LHCb project 'Flash simulations of resistive solid state detectors'.  He collaborates as a member of the specific INFN initiative dedicated to artificial intelligence AI_INFN, where he also acts as a teacher for Hackathons.",
       "highlights": [
-        "Relativity"
+        "Deep Learning",
+        "Cloud Computing",
+        "Research",
+        "Distributed Computing"
       ]
-    }
-  ],
-  "volunteer": [
+    } ,
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "position": "Tecnologo a tempo determinato",
+      "url": "https://home.infn.it",
+      "startDate": "2023-05-15",
+      "endDate": "",
+      "summary": "He works as a fixed-term technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within Spoke 2 'Fundamental Research', WP2 'High Energy Physics' and WP6 'Industrial Applications & Space Economy'. He acts as Principal Investigator (PI) for the Flagship of 2.6.1. Fast Extended Computer Vision dedicated to distributed computing applications for the inference of neural networks dedicated to artificial vision on physical imaging. Collaborates within the WP2 Innovation Grant dedicated to Physics Informed Neural Networks applications on the LHCb project 'Flash simulations of resistive solid state detectors'.  He collaborates as a member of the specific INFN initiative dedicated to artificial intelligence AI_INFN, where he also acts as a teacher for Hackathons.",
       "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
+        "Deep Learning",
+        "Cloud Computing",
+        "Research", 
+        "Distributed Computing"
       ]
-    }],
+    } ,
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "position": "Assegnista di Ricerca",
+      "url": "https://home.infn.it",
+      "startDate": "2022-07-01",
+      "endDate": "2023-05-14",
+      "summary": "I carried out ICT research and development of the SaaS platform of the organization's internal network dedicated to the applications of nuclear technologies on cultural heritage, INFN-CHNet (Cultural Heritage Network). I collavorated with colleagues from INFN-CNAF on the design, development with an IaC approach, and implementation of a PaaS-type architecture as a pilot for the European competence center for cultural heritage (activity carried out within the 4CH project). I actively collaborated in the integration and porting of the THESPIAN suite into the 4CH PaaS. Since 07/2022 I have been responsible for digital development and co-author of the AIRES-CH (Artificial Intelligence for digital REStoration of Cultural Heritage) project, written in collaboration with the PI Dr. Francesco Taccetti, and with the head of Scientific Analysis Dr. Chiara Ruberto. The AIRES-CH project was the winner of the Tuscany Region call Giovani Sì - FSC Research Grants Year 2021, CUP I95F21001120008. The AIRES-CH project focuses on the development of a native cloud application based on deep neural networks to perform the task of automatic color assignment to imaging analyzes with nuclear technologies, in particular X-ray fluorescence analysis. I personally followed the design, writing, training and testing of neural networks, as well as data recovery, dataset creation and data engineering. The code for the development of the neural networks was written in Python, exploiting packages for numerical calculation such as NumPy and SciPy, with the TensorFlow and Keras packages for the architectures, and with the Optuna package for the optimization of the hyperparameters through the Bayesian optimization. Finally I worked on the design, development and release of a server application with REST API architecture to serve trained neural networks via the web. The code for the REST-API is released on GitHub.", 
+      "highlights": [
+        "Deep Learning",
+        "Cloud Computing",
+        "Computer Vision"
+      ]
+    } ,
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "position": "Assegnista di Ricerca",
+      "url": "https://home.infn.it",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-20",
+      "summary": "I deal with research and development of digital infrastructures and web services for the Digital Heritage Laboratory (DHLab) of the Cultural Heritage Network (CHNet), National Institute of Nuclear Physics, Florence, within the European Open Science Cloud (EOSC) European research projects ) - Pillar (https://www.eosc-pillar.eu/), and ARIADNEplus (https://ariadne-infrastructure.eu/).",
+      "highlights": [
+        "Deep Learning",
+        "Cloud Computing",
+        "Computer Vision",
+        "Full-stack development"
+      ]
+    } 
+
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Padova",
+      "location": "Padova, Italy",
+      "url": "https://www.unipd.it/",
+      "area": "Physics",
+      "summary": "My Ph.D. project focuses on the so-called “fuzzball” proposal. Fuzzballs are String Theory solutions that approximate the usual Black Hole (BH) at large distances but are otherwise smooth geometries without curvature singularities or a causal disconnecting horizon. If all BH microstates were described by fuzzballs, the infamous BH information paradox would de facto be solved." ,
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2016-10-01",
+      "endDate": "2019-09-30",
+      "score": "Excellent",
       "courses": [
-        "Theory of Relativity"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -138,60 +113,35 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-      "icon":""
+      "language": "Italian",
+      "fluency": "Native speaker", 
+      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-      "icon":""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent",
+      "icon": ""
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Artificial Intelligence for digital REStoration of Cultural Heritage - AIRES-CH",
+      "summary": "",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Nuclear Vision",
+        "X-Ray Fluorescence",
+        "Deep Learning"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2021-07-01",
+      "endDate": "",
+      "url": ""
     }
   ]
 }
