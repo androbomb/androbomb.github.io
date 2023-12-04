@@ -30,6 +30,7 @@ nav_order: 5
         <p><b>Exam</b>:</p>
         <p>Option a: <i>Discussion of a research work on the topic, selected by the student and accepted by the instructor; it has to be presented orally with a presentation and with a Git repo offering the students implementation of the code. </i></p>
         <p>Option b<i>: Resolution of a small research problem discussed jointly with the instructor; presented either orally with a brief presentation or a written essay, and a Git repo.</i></p>
+        <b>Repository with notebooks and other utilities:</b> <a href="https://pandora.infn.it/public/pinn-smart-computing-utils">pandora.infn.it</a> (it is password protected; I'll give it during the course)
       </li>
       <li class="list-group-item">
           <i class="fas fa-atom fa-spin"></i> <b>0. Introductory Lecture</b> (1h+1h): <a href="https://docs.google.com/presentation/d/1BaJSAs2Sx3CxlwBdmNZ-9BlsuM5o4qe4zIieWChkYbQ/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1mtx_u69C88jR9JgrmQkfo8gdzO7-wrXR/view?usp=sharing">code</a>
