@@ -12,7 +12,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Numerically resolution of Differential Equations for applications using Physics-Informed Neural Networks</h5>
+        <h5 class="font-weight-bold">Numerical resolution of Differential Equations for applications using Physics-Informed Neural Networks</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
@@ -93,7 +93,7 @@ nav_order: 5
         <li class="list-group-item">
           <div class="row">
             <div class="col-sm-10">
-              <i>November, 15th, 2023</i>, (Online) Agenda: <a href="https://agenda.infn.it/event/37650/"> link</a>.
+              <i>November, 15th, 2023</i>, (Pisa, INFN section) Agenda: <a href="https://agenda.infn.it/event/37650/"> link</a>.
             </div>
             <div class="col-sm-2 text-left text-sm-right">
               <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
