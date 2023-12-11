@@ -68,6 +68,9 @@ nav_order: 5
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 26, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula TBD, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
+      <li class="list-group-item">
+        Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/8rHKLnsnVoqgrcxU6">Mirror 2</a> (either one of the two are ok)
+      </li>
     </ul>
   </div>
 </div>
