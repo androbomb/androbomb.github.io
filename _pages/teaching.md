@@ -71,6 +71,7 @@ nav_order: 5
       <li class="list-group-item">
         Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/8rHKLnsnVoqgrcxU6">Mirror 2</a> (either one of the two is ok)
         <p><i class="fa-brands fa-git-alt"></i> Link to  Baltig (INFN gitlab) repository: <a href="https://baltig.infn.it/bombini/pinn-course-2024.git">mirror 1</a> </p>
+        <p style="text-align: center;"><b>Lectures will be streamed on Discord <i class="fa-brands fa-discord"></i></b> <a href="https://discord.gg/R8gwFx25XU">Invite link to discord server</a></p>
       </li>
     </ul>
   </div>
