@@ -36,7 +36,7 @@ nav_order: 5
           <i class="fas fa-atom fa-spin"></i> <b>0. Introductory Lecture</b> (1h+1h): <a href="https://docs.google.com/presentation/d/1BaJSAs2Sx3CxlwBdmNZ-9BlsuM5o4qe4zIieWChkYbQ/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1mtx_u69C88jR9JgrmQkfo8gdzO7-wrXR/view?usp=sharing">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-11:00, January, 11, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 210, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>1. Intro to Differential Equations  & their numerical solution </b> (1h+1h): <a href="https://docs.google.com/presentation/d/19RSDPuE4n__324Dn1ElXQkOXghnsn3CZIx-aJ_XwXGA/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1nBdzLvFO4IEydiRssxEqT5xq7GwAo0gg?usp=drive_link">code</a>
@@ -48,25 +48,25 @@ nav_order: 5
           <i class="far fa-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="https://docs.google.com/presentation/d/1mdBN5qy8CJbRWK8VJ4w5efCrUQuI8cRZCWczRghrq9s/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1mzbtdArZ4LegUsMww4N-uYr-LuHMvlAk/view?usp=sharing">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 18, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 210, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and code: <a href="">lecture</a> and <a href="">exercise</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 19, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 210, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1kWziYSm7dQRmk8DBltjy5UzPdKdhyyK39wL8Ky_f-aE/edit?usp=sharing">slides</a> and <a href="">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 25, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 210, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architecture</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1vnTyQT7HasQ8uINcPo1ABni-OwFX3leLuNk4L21XAAI/edit?usp=sharing">slides</a> and <a href="">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 26, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 210, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
         Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/8rHKLnsnVoqgrcxU6">Mirror 2</a> (either one of the two is ok)
