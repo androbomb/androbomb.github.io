@@ -60,13 +60,13 @@ nav_order: 5
           <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1kWziYSm7dQRmk8DBltjy5UzPdKdhyyK39wL8Ky_f-aE/edit?usp=sharing">slides</a> and <a href="">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 25, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 209, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architecture</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1vnTyQT7HasQ8uINcPo1ABni-OwFX3leLuNk4L21XAAI/edit?usp=sharing">slides</a> and <a href="">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 26, 2024 (Tentative).
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 209, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
         Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/8rHKLnsnVoqgrcxU6">Mirror 2</a> (either one of the two is ok)
