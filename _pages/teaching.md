@@ -33,13 +33,13 @@ nav_order: 5
         <b>Repository with notebooks and other utilities:</b> <a href="https://pandora.infn.it/public/pinn-smart-computing-utils">pandora.infn.it</a> (it is password protected; I'll give it during the course)
       </li>
       <li class="list-group-item">
-          <i class="fas fa-atom fa-spin"></i> <b>0. Introductory Lecture</b> (1h+1h): <a href="https://docs.google.com/presentation/d/1BaJSAs2Sx3CxlwBdmNZ-9BlsuM5o4qe4zIieWChkYbQ/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1mtx_u69C88jR9JgrmQkfo8gdzO7-wrXR/view?usp=sharing">code</a>
+          <i class="far fa-check-square"></i> <b>0. Introductory Lecture</b> (1h+1h): <a href="https://docs.google.com/presentation/d/1BaJSAs2Sx3CxlwBdmNZ-9BlsuM5o4qe4zIieWChkYbQ/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1mtx_u69C88jR9JgrmQkfo8gdzO7-wrXR/view?usp=sharing">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-11:00, January, 11, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>1. Intro to Differential Equations  & their numerical solution </b> (1h+1h): <a href="https://docs.google.com/presentation/d/19RSDPuE4n__324Dn1ElXQkOXghnsn3CZIx-aJ_XwXGA/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1nBdzLvFO4IEydiRssxEqT5xq7GwAo0gg?usp=drive_link">code</a>
+          <i class="fas fa-atom fa-spin"></i> <b>1. Intro to Differential Equations  & their numerical solution </b> (1h+1h): <a href="https://docs.google.com/presentation/d/19RSDPuE4n__324Dn1ElXQkOXghnsn3CZIx-aJ_XwXGA/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1nBdzLvFO4IEydiRssxEqT5xq7GwAo0gg?usp=drive_link">code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-11:00, January, 12, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 117, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
