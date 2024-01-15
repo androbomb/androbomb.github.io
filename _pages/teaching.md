@@ -52,7 +52,7 @@ nav_order: 5
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and code: <a href="">lecture</a> and <a href="">exercise</a>
+          <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=drive_link">lecture</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 19, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
