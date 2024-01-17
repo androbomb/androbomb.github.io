@@ -80,38 +80,43 @@
       "institution": "University of Padova",
       "location": "Padova, Italy",
       "url": "https://www.unipd.it/",
-      "area": "Physics",
+      "area": "Doctor Europaeus certificate. Vote: Excellent",
       "summary": "My Ph.D. project focuses on the so-called “fuzzball” proposal. Fuzzballs are String Theory solutions that approximate the usual Black Hole (BH) at large distances but are otherwise smooth geometries without curvature singularities or a causal disconnecting horizon. If all BH microstates were described by fuzzballs, the infamous BH information paradox would de facto be solved." ,
-      "studyType": "PhD",
+      "studyType": "PhD, Physics",
       "startDate": "2016-10-01",
       "endDate": "2019-09-30",
       "score": "Excellent",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Florence",
+      "location": "Firenze, Italy",
+      "url": "https://www.unifi.it/",
+      "area": "Physics (LM-17). Vote: 110 e Lode",
+      "summary": "" ,
+      "studyType": "MSc, Scienze Fisiche e Astrofisiche",
+      "startDate": "2014-01-01",
+      "endDate": "2016-03-01",
+      "score": "110 e Lode",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Florence",
+      "location": "Firenze, Italy",
+      "url": "https://www.unifi.it/",
+      "area": "Physics (L-30). Vote: 110 e Lode",
+      "summary": "" ,
+      "studyType": "BSc, Fisica e Astrofisica",
+      "startDate": "2010-09-01",
+      "endDate": "2013-12-10",
+      "score": "110 e Lode",
+      "courses": [
+      ]
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "languages": [
     {
@@ -131,6 +136,19 @@
     }
   ],
   "projects": [
+    {
+      "name": "Extended Computer Vision at high rate - ICSC Spoke 2 WP6 Flagship 2.6.1",
+      "summary": "The flagship use case focuses on two aspects related to applied research in domains using computer vision, coupled with the need to perform fast (“high rate”) analyses on large real / realistic datasets. From the technological point of view, one of the purposes of the presented use case, is to build a demonstrator to validate the high rate analysis infrastructure provided by WP5 has the capability to support a wide range of different scientific domains. The proposed infrastructure aims to support the paradigm shift from a batch-based approach to an interactive analysis model based on a parallel processing possibly over geographically distributed backends.",
+      "highlights": [
+        "Distributed Computing",
+        "Nuclear Vision",
+        "Deep Learning",
+        "Spectral Vision"
+      ],
+      "startDate": "2023-09-11",
+      "endDate": "2025-08-01",
+      "url": ""
+    }, 
     {
       "name": "Artificial Intelligence for digital REStoration of Cultural Heritage - AIRES-CH",
       "summary": "",
