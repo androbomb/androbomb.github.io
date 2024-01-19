@@ -45,14 +45,14 @@ nav_order: 5
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 117, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="fas fa-atom fa-spin"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="https://docs.google.com/presentation/d/1mdBN5qy8CJbRWK8VJ4w5efCrUQuI8cRZCWczRghrq9s/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1AZF_FAfq-Yi0JRkeRRi5HX9r7aPBiD0n/view?usp=sharing">example code</a>
-          <a href="https://drive.google.com/file/d/1Uo1aM967qagbSKcrVuh2Q3U_iM7ee9xl/view?usp=sharing">exercise code</a>
+          <i class="far fa-check-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="https://docs.google.com/presentation/d/1mdBN5qy8CJbRWK8VJ4w5efCrUQuI8cRZCWczRghrq9s/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1AZF_FAfq-Yi0JRkeRRi5HX9r7aPBiD0n/view?usp=sharing">example code</a>
+          <a href="https://drive.google.com/file/d/1Uo1aM967qagbSKcrVuh2Q3U_iM7ee9xl/view?usp=sharing">exercise code</a> (<a href="https://drive.google.com/file/d/1mzbtdArZ4LegUsMww4N-uYr-LuHMvlAk/view?usp=sharing">solution code</a> )
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 18, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=drive_link">lecture</a>
+          <i class="fas fa-atom fa-spin"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=drive_link">lecture</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=sharing">data</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 19, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
@@ -72,6 +72,7 @@ nav_order: 5
       <li class="list-group-item">
         Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/8rHKLnsnVoqgrcxU6">Mirror 2</a> (either one of the two is ok)
         <p><i class="fa-brands fa-git-alt"></i> Link to  Baltig (INFN gitlab) repository: <a href="https://baltig.infn.it/bombini/pinn-course-2024.git">mirror 1</a> </p>
+        <p><i class="fa-brands fa-git-alt"></i> Useful tutorial to install (old version) nVidia modulus on Colab (not mine): <a href="https://www.youtube.com/watch?v=IcbIFFV8ysk">video</a> and <a href="https://colab.research.google.com/gist/josealvarez97/33fe9b646e63dc20bbf07f562060b83f/nvidia-modulus-installation-on-google-colab.ipynb">colab</a> (<a href="https://colab.research.google.com/drive/1ZSYlaN9hgOvODQDNa0VGyC5uarOy_KH-?usp=sharing">colab mirror 2</a>) </p>
         <p style="text-align: center;"><b>Lectures will be streamed on Discord <i class="fa-brands fa-discord"></i></b> <a href="https://discord.gg/R8gwFx25XU">Invite link to discord server</a></p>
       </li>
     </ul>
