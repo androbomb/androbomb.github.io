@@ -52,13 +52,13 @@ nav_order: 5
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="fas fa-atom fa-spin"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=sharing">exercise data</a> (<a href="https://drive.google.com/file/d/1dNsVVxEY5jvx8OJvtgEI2pzjmtqMbDLT/view?usp=sharing">exercise solution for Heat equation</a>)
+           <i class="far fa-check-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1L8ZOWkaL_86etVgbn7lbzU0zhO2AjJVkXaOSSuZnGhU/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=sharing">exercise data</a> (<a href="https://drive.google.com/file/d/1dNsVVxEY5jvx8OJvtgEI2pzjmtqMbDLT/view?usp=sharing">exercise solution for Heat equation</a>)
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 19, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 005, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1kWziYSm7dQRmk8DBltjy5UzPdKdhyyK39wL8Ky_f-aE/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/drive/folders/1JD0cgntrgs1bzLMbjqsxnedEOEmmrnBu?usp=sharing">code repository</a>
+          <i class="fas fa-atom fa-spin"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1kWziYSm7dQRmk8DBltjy5UzPdKdhyyK39wL8Ky_f-aE/edit?usp=sharing">slides</a> and <a href="https://drive.google.com/drive/folders/1JD0cgntrgs1bzLMbjqsxnedEOEmmrnBu?usp=sharing">code repository</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:00-12:00, January, 25, 2024 (Tentative).
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 209, Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
