@@ -27,7 +27,9 @@ Currently, I work as a Researcher at the INFN in the network devoted to the appl
 
 I am also the Responsible of the Digital development and ideator of the Artificial Intelligence for digital REStoration of Cultural Heritages (AIRES-CH) project, funded by a grant of Tuscany Region; AIRES-CH aims at building a web-based app for the digital restoration of pictorial artworks through Computer Vision technologies applied to nuclear imaging raw data. Two papers were already published about AIRES-CH.
 
-I currently works as a technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within the Spoke 2 "Fundamental Research", WP2 "High Energy Physics" and WP6 "Industrial Applications & Space Economy"
+I currently work as a technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within the Spoke 2 "Fundamental Research", WP2 "High Energy Physics" and WP6 "Industrial Applications & Space Economy"; I am also principal investigator for the Flaghsip 2.6.1 "Extended Computer Vision at High Rate", where we devised distributed computing approaches for ad hoc trained deep neural network computer vision models on physics-related tasks. 
+
+I am also an Independent Expert for EU Research Executive Agency (REA) and European Innovation Council and SMEs Executive Agency (EISMEA).
 
 **Technological Research experience**
 - 05/2023 -- now: Tecnologo: ML research @ ICSC; PI "Fast Extended Computer Vision" 
