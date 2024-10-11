@@ -6,6 +6,7 @@ description: classes, workshops, and teaching material
 nav: true
 nav_order: 5
 ---
+
 <h3 class="mt-4">PhD in Smart Computing, Unversità di Firenze</h3>
 
 <div class="card mt-3">
@@ -80,6 +81,80 @@ nav_order: 5
   </div>
 </div>
 
+<!-- >
+  Other Lectures
+<!-->
+<h3 class="mt-4">Lectures</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          Scuola dell'Equinozio         
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>September, 25th, 2024</i>, (Pistoia, UniSer) Agenda: <a href="https://www.uniser-pistoia.com/informazioni-e-iscrizione-per-la-scuola-dellequinozio-2024/"> link</a>.
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  2024 Edition
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b> Solving differential equation with deep learning: Physics Informed Neural Networks
+          </p>
+              <a href="https://docs.google.com/presentation/d/1g3-ZHz9ZGyZRfIZ2iFCpjqjJoP4ks7TdijBNIT_2klc/edit?usp=sharing">Slides.</a> 
+        </li> 
+      </ul>
+    </div>
+    
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          Scuola dell'Equinozio         
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>June, 5th, 2023</i>, (Seminar on Software for Nuclear, Subnuclear and Applied Physics, Alghero) Agenda: <a href="https://www.uniser-pistoia.com/informazioni-e-iscrizione-per-la-scuola-dellequinozio-2024/"> link</a>.
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  XX Edition
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b> Machine Learning for Cultural Heritage
+          </p>
+              <a href="https://docs.google.com/presentation/d/1fxxMYHy5-SiELF730IIiV2gzZ13tTL-pJwx1hppimrY/edit?usp=sharing">Slides.</a> 
+        </li> 
+      </ul>
+    </div>
+    
+  </div>
+</div>
 
 <!-- >
   HACKATHONS
