@@ -126,7 +126,7 @@ nav_order: 5
     <div class="row">
       <div class="col-sm-10">
         <h5 class="font-weight-bold">
-          Scuola dell'Equinozio         
+          Seminar on Software for Nuclear, Subnuclear and Applied Physics  
         </h5>
       </div>
     </div>
@@ -137,7 +137,7 @@ nav_order: 5
         <li class="list-group-item">
           <div class="row">
             <div class="col-sm-10">
-              <i>June, 5th, 2023</i>, (Seminar on Software for Nuclear, Subnuclear and Applied Physics, Alghero) Agenda: <a href="https://www.uniser-pistoia.com/informazioni-e-iscrizione-per-la-scuola-dellequinozio-2024/"> link</a>.
+              <i>June, 5th, 2023</i>, (Alghero) Agenda: <a href="https://agenda.infn.it/event/33233/"> link</a>.
             </div>
             <div class="col-sm-2 text-left text-sm-right">
               <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
