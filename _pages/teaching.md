@@ -19,8 +19,11 @@ nav_order: 5
         <h5 class="font-weight-bold">Numerical resolution of Differential Equations for applications using Physics-Informed Neural Networks (A.A. 2024/25)</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            4CFU (16hrs) 
+        <span class="badge font-weight-bold danger-color-dark align-middle">
+            4CFU (16hrs) [SC]
+        </span>
+        <span class="badge font-weight-bold danger-color align-middle">
+            3CFU (18hrs) [Ph]
         </span>
       </div>
     </div>
@@ -28,7 +31,8 @@ nav_order: 5
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         Graduate-level introduction to PINNs. <a href="https://docs.google.com/document/d/1zYZ4OYqSOOiPHbiOz0AlpJRBDfapbNXXSNP9ntWiBI8/edit?usp=sharing">Syllabus</a>. 
-        <p>All interested students should contact me at my <a href="mailto:bombini@fi.infn.it">personal mail</a></p>
+        <p>All interested students should contact me at my <a href="mailto:bombini@fi.infn.it">personal mail</a>.  <b><i>Elegible also as a course for the PhD in Physics.</i></b> </p>
+        <!-- summary -->
         <p><b>Summary</b>: </p>
         <p><i>The goal of the course is to introduce the concept of Physics Informed Deep Neural Networks (PINN), discuss its implementation from scratch in PyTorch and using advanced ad-hoc developed open-source libraries such as nvidia-modulus for addressing real-world problems in various fields (engineering, physics, petroleum reservoir). We discuss recent topics such as Mixture-of-Models, Neural Operators, Physics-Informed Kolmogorov-Arnold Networks and Physics-Informed Computer Vision.</i> </p>
         <p><b>Exam</b>:</p>
@@ -39,43 +43,43 @@ nav_order: 5
       <!-- Lectures -->
       <!-- 1 -->
       <li class="list-group-item">
-          <i class="fas fa-atom fa-spin"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">code</a>
+          <i class="fas fa-atom fa-spin"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">slides</a> and <a href='https://drive.google.com/file/d/1PfYw-o6WlvXOTTGfqBiRju1Ar9yZQNrh/view?usp=drive_link'>code w/ exercises</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
       </li>
       <!-- 2 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1nBdzLvFO4IEydiRssxEqT5xq7GwAo0gg?usp=drive_link">code</a>
+          <i class="far fa-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1SpSiNCK5ypKA9ze2JiiecQcbknb6j17w?usp=drive_link">exercises code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
       </li>
       <!-- 3 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="">slides</a> and <a href="https://drive.google.com/file/d/1AZF_FAfq-Yi0JRkeRRi5HX9r7aPBiD0n/view?usp=sharing">example code</a>
-          <a href="https://drive.google.com/file/d/1Uo1aM967qagbSKcrVuh2Q3U_iM7ee9xl/view?usp=sharing">exercise code</a> (<a href="https://drive.google.com/file/d/1mzbtdArZ4LegUsMww4N-uYr-LuHMvlAk/view?usp=sharing">solution code</a> )
+          <i class="far fa-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="">slides</a> and <a href="">example code</a>
+          <a href="">exercise code</a> (<a href="">solution code</a> )
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
       </li>
       <!-- 4 -->
       <li class="list-group-item">
-           <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="">slides</a> and <a href="https://drive.google.com/file/d/1jhhQscfTiLz5jmWcSgKX-Q27Lt5dh8AI/view?usp=sharing">exercise data</a> (<a href="https://drive.google.com/file/d/1dNsVVxEY5jvx8OJvtgEI2pzjmtqMbDLT/view?usp=sharing">exercise solution for Heat equation</a>)
+           <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="">slides</a> and <a href="">exercise data</a> (<a href=""> exercise solution for Heat equation</a>)
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
       </li>
       <!-- 5 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="">slides</a> and <a href="https://drive.google.com/drive/folders/1JD0cgntrgs1bzLMbjqsxnedEOEmmrnBu?usp=sharing">code repository</a>
+          <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
       </li>
       <!-- 6 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <!--<i class="far fa-square"></i> --> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architectures</b> (2h+1h): <a href="">slides</a> and <a href="https://drive.google.com/drive/folders/1P-Rlm24Y-O0j-2MALk06KHevHbCU5LAy?usp=sharing">code repository</a>
+          <i class="far fa-square"></i> <!--<i class="far fa-square"></i> --> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architectures</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
