@@ -9,8 +9,8 @@ nav_order: 5
 
 <h3 class="mt-4">PhD in Smart Computing, Unversità di Firenze</h3>
 
-<!-->
-2024
+<!-- >
+  2025
 <!-->
 <div class="card mt-3">
   <div class="p-3">
@@ -27,7 +27,7 @@ nav_order: 5
     <h6 class="font-italic mt-2 mt-sm-0">Winter 2025: Lecturer</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
-        Graduate-level introduction to PINNs. <a href="https://docs.google.com/document/d/1SZuFX186AL383jItRlbuJUJyqTKDZPynL22UwVdX3Fw/edit?usp=sharing">Syllabus</a>. 
+        Graduate-level introduction to PINNs. <a href="https://docs.google.com/document/d/1zYZ4OYqSOOiPHbiOz0AlpJRBDfapbNXXSNP9ntWiBI8/edit?usp=sharing">Syllabus</a>. 
         <p>All interested students should contact me at my <a href="mailto:bombini@fi.infn.it">personal mail</a></p>
         <p><b>Summary</b>: </p>
         <p><i>The goal of the course is to introduce the concept of Physics Informed Deep Neural Networks (PINN), discuss its implementation from scratch in PyTorch and using advanced ad-hoc developed open-source libraries such as nvidia-modulus for addressing real-world problems in various fields (engineering, physics, petroleum reservoir). We discuss recent topics such as Mixture-of-Models, Neural Operators, Physics-Informed Kolmogorov-Arnold Networks and Physics-Informed Computer Vision.</i> </p>
@@ -93,8 +93,8 @@ nav_order: 5
 </div>
 
 
-<!-->
-2023
+<!-- >
+  2024
 <!-->
 <div class="card mt-3">
   <div class="p-3">
