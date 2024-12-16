@@ -45,44 +45,44 @@ nav_order: 5
       <li class="list-group-item">
           <i class="fas fa-atom fa-spin"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">slides</a> and <a href='https://drive.google.com/file/d/1PfYw-o6WlvXOTTGfqBiRju1Ar9yZQNrh/view?usp=drive_link'>code w/ exercises</a>
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 11:30, January 14, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 217,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 2 -->
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1SpSiNCK5ypKA9ze2JiiecQcbknb6j17w?usp=drive_link">exercises code</a>
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 15, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 3 -->
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="">slides</a> and <a href="">example code</a>
           <a href="">exercise code</a> (<a href="">solution code</a> )
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 16, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 4 -->
       <li class="list-group-item">
            <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="">slides</a> and <a href="">exercise data</a> (<a href=""> exercise solution for Heat equation</a>)
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 20, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 5 -->
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 22, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 6 -->
       <li class="list-group-item">
           <i class="far fa-square"></i> <!--<i class="far fa-square"></i> --> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architectures</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
           <br>
-          <i pad="10px" class="fa-regular fa-calendar-days" ></i> TBD.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> TBD.
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 24, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- Extra stuff -->
       <li class="list-group-item">
@@ -90,7 +90,7 @@ nav_order: 5
         <p><i class="fa-brands fa-git-alt"></i> Link to  Baltig (INFN gitlab) repository: <a href="https://baltig.infn.it/bombini/pinn-course-2024.git">mirror 1</a> </p>
         <p> <i class="fa-solid fa-newspaper"></i> Useful updated list of relevant papers: <a href="https://github.com/bitzhangcy/Neural-PDE-Solver">Neural PDE Solver</a> </p>
         <p><i class="fa-brands fa-git-alt"></i> Useful tutorial to install (old version) nVidia modulus on Colab (not mine): <a href="https://www.youtube.com/watch?v=IcbIFFV8ysk">video</a> and <a href="https://colab.research.google.com/gist/josealvarez97/33fe9b646e63dc20bbf07f562060b83f/nvidia-modulus-installation-on-google-colab.ipynb">colab</a> (<a href="https://colab.research.google.com/drive/1ZSYlaN9hgOvODQDNa0VGyC5uarOy_KH-?usp=sharing">colab mirror 2</a>) </p>
-        <p style="text-align: center;"><b>Lectures will be streamed on Discord <i class="fa-brands fa-discord"></i></b> <a href="https://discord.gg/R8gwFx25XU">Invite link to discord server</a></p>
+        <p style="text-align: center;"><b>Lectures will be streamed on Discord <i class="fa-brands fa-discord"></i></b> <a href="https://discord.gg/t9MEXgyhAw">Invite link to "PINN Course 2024-2025" discord server</a></p>
       </li>
     </ul>
   </div>
