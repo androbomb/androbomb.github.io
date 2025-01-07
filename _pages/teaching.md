@@ -46,14 +46,21 @@ nav_order: 5
           <i class="fas fa-atom fa-spin"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">slides</a> and <a href='https://drive.google.com/file/d/1PfYw-o6WlvXOTTGfqBiRju1Ar9yZQNrh/view?usp=drive_link'>code w/ exercises</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 11:30, January 14, 2025.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 217,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>217</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+      </li>
+      <!-- Extra for Physicists -->
+      <li class="list-group-item">
+          <i class="far fa-square"></i> <b>[Extra]. Brief Introduction on Deep Learning: Motivation, Learning as optimisation problem, architectures </b> (2h): <a href="https://docs.google.com/presentation/d/11zBmxxety0St8j_r_gmxrQASLfKblVmxhhBlk_aSUss/edit?usp=sharing">slides</a>
+          <br>
+          <i pad="10px" class="fa-regular fa-calendar-days" ></i> 14:30 -- 16:30, January 14, 2025.
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>220</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 2 -->
       <li class="list-group-item">
           <i class="far fa-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1SpSiNCK5ypKA9ze2JiiecQcbknb6j17w?usp=drive_link">exercises code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 15, 2025.
-          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
+          <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>219</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 3 -->
       <li class="list-group-item">
