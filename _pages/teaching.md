@@ -94,6 +94,7 @@ nav_order: 5
       <!-- Extra stuff -->
       <li class="list-group-item">
         Link to enrollment form: <a href="../pinn-form-2024">Mirror 1</a> <a href="https://forms.gle/waufiF6kEwTRsveK9">Mirror 2</a> (either one of the two is ok)
+        <p><i class="fa-regular fa-folder-open"></i> Link to Google Drive Course Folder: <a href="https://drive.google.com/drive/folders/1ygSBGFuxDIxU5rhb68Wd5mxmaSVHhG9z?usp=sharing">mirror 1</a> </p>
         <p><i class="fa-brands fa-git-alt"></i> Link to  Baltig (INFN gitlab) repository: <a href="https://baltig.infn.it/bombini/pinn-course-2024.git">mirror 1</a> </p>
         <p> <i class="fa-solid fa-newspaper"></i> Useful updated list of relevant papers: <a href="https://github.com/bitzhangcy/Neural-PDE-Solver">Neural PDE Solver</a> </p>
         <p><i class="fa-brands fa-git-alt"></i> Useful tutorial to install (old version) nVidia modulus on Colab (not mine): <a href="https://www.youtube.com/watch?v=IcbIFFV8ysk">video</a> and <a href="https://colab.research.google.com/gist/josealvarez97/33fe9b646e63dc20bbf07f562060b83f/nvidia-modulus-installation-on-google-colab.ipynb">colab</a> (<a href="https://colab.research.google.com/drive/1ZSYlaN9hgOvODQDNa0VGyC5uarOy_KH-?usp=sharing">colab mirror 2</a>) </p>
