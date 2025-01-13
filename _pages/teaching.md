@@ -50,7 +50,7 @@ nav_order: 5
       </li>
       <!-- Extra for Physicists -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>[Extra]. Brief Introduction on Deep Learning: Motivation, Learning as optimisation problem, architectures </b> (2h): <a href="https://docs.google.com/presentation/d/11zBmxxety0St8j_r_gmxrQASLfKblVmxhhBlk_aSUss/edit?usp=sharing">slides</a>
+          <i class="far fa-square"></i> <b>[Extra]. Brief Introduction on Deep Learning: Motivation, Learning as optimisation problem, architectures </b> (2h): <a href="https://docs.google.com/presentation/d/11zBmxxety0St8j_r_gmxrQASLfKblVmxhhBlk_aSUss/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/19Wqc2sLNb2or9m-i0w-aOYvh9fZGU2Q-?usp=drive_link">MLP example code</a>, <a href="https://colab.research.google.com/drive/1Z_CBJZ2hrr2rPLhP3Uo5oyfFohewOglr?usp=drive_link">LeNet example code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 14:30 -- 16:30, January 14, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>220</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
