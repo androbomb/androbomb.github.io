@@ -43,50 +43,50 @@ nav_order: 5
       <!-- Lectures -->
       <!-- 1 -->
       <li class="list-group-item">
-          <i class="fas fa-atom fa-spin"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">slides</a> and <a href='https://drive.google.com/file/d/1PfYw-o6WlvXOTTGfqBiRju1Ar9yZQNrh/view?usp=drive_link'>code w/ exercises</a>
+          <i class="far fa-check-square"></i> <b>0. General Introduction to the course: Motivation, Recaps of Mathematical Analysis, Functional Analysis, Montecarlo Integration </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1ZpQ0z5tdmq7_ukqvaUT_M6TnTJXDVAurUA9cDJKWJzA/edit?usp=sharing">slides</a> and <a href='https://drive.google.com/file/d/1PfYw-o6WlvXOTTGfqBiRju1Ar9yZQNrh/view?usp=drive_link'>code w/ exercises</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 11:30, January 14, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>217</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- Extra for Physicists -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>[Extra]. Brief Introduction on Deep Learning: Motivation, Learning as optimisation problem, architectures </b> (2h): <a href="https://docs.google.com/presentation/d/11zBmxxety0St8j_r_gmxrQASLfKblVmxhhBlk_aSUss/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/19Wqc2sLNb2or9m-i0w-aOYvh9fZGU2Q-?usp=drive_link">MLP example code</a>, <a href="https://colab.research.google.com/drive/1Z_CBJZ2hrr2rPLhP3Uo5oyfFohewOglr?usp=drive_link">LeNet example code</a>
+          <i class="far fa-check-square"></i> <b>[Extra]. Brief Introduction on Deep Learning: Motivation, Learning as optimisation problem, architectures </b> (2h): <a href="https://docs.google.com/presentation/d/11zBmxxety0St8j_r_gmxrQASLfKblVmxhhBlk_aSUss/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/19Wqc2sLNb2or9m-i0w-aOYvh9fZGU2Q-?usp=drive_link">MLP example code</a>, <a href="https://colab.research.google.com/drive/1Z_CBJZ2hrr2rPLhP3Uo5oyfFohewOglr?usp=drive_link">LeNet example code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 14:30 -- 16:30, January 14, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>220</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 2 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1SpSiNCK5ypKA9ze2JiiecQcbknb6j17w?usp=drive_link">exercises code</a>
+          <i class="far fa-check-square"></i> <b>1. Intro to numerical resolution of Differential Equations </b> (1h+1h): <a href="https://docs.google.com/presentation/d/1kFM3ss1RVbQUZrqWHjLCJXO62_Q8CTwoGIeKoGZg3D0/edit?usp=sharing">slides</a> and <a href="https://colab.research.google.com/drive/1SpSiNCK5ypKA9ze2JiiecQcbknb6j17w?usp=drive_link">exercises code</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 15, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula <b>219</b>,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 3 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="">slides</a> and <a href="">example code</a>
-          <a href="">exercise code</a> (<a href="">solution code</a> )
+          <i class="far fa-check-square"></i> <b>2.Introduction to Physics Informed Neural Networks - Part I forward problems </b> (2h+1h): <a href="https://docs.google.com/presentation/d/11VPimshOxEgA0YRjGFWYgOkea9jSOi16rW6glRRoykQ/edit?usp=drive_link">slides</a> and <a href="https://drive.google.com/file/d/1fEiUy7sPmOeQ-_QuITwZ4anOJDDG8lHO/view?usp=drive_link">example code</a>
+          <a href="https://drive.google.com/file/d/1uzM4d6yHgQIpemJp2CEyU1VZOGhE08Rg/view?usp=drive_link">exercise code</a> (<a href="https://drive.google.com/file/d/1-Q5Uaxq8b_dKKR57EaOacDvPbKHrzJkh/view?usp=drive_link">solution code</a> )
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 16, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 4 -->
       <li class="list-group-item">
-           <i class="far fa-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="">slides</a> and <a href="">exercise data</a> (<a href=""> exercise solution for Heat equation</a>)
+           <i class="far fa-check-square"></i> <b>3. Introduction to Physics Informed Neural Networks - Part II inverse problems and parametric PINNs</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1KINuKSKtQDWAjppxG058FGr-S0pAV6nYGX5JUsTH8rg/edit?usp=drive_link">slides</a> and <a href="https://drive.google.com/file/d/1DWwTVsE7fURD4B6tjl-Dw8RX726GDBkg/view?usp=drive_link">exercise data</a> (<a href="https://drive.google.com/file/d/1buIEgNFe-lKHowSegaJHT_bM2fvDN2gD/view?usp=drive_link"> exercise solution for Heat equation</a>)
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 20, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 5 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
+          <i class="fas fa-atom fa-spin"></i> <b>4. PINN with nVidia modulus - Part I Introduction & custom PDE</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1hRVbUBHRxY3emwe7Q4hM_RYMLIB64A1SSQjE5TYtJvE/edit?usp=drive_link">slides</a> and <a href="https://drive.google.com/drive/folders/1fhp3F2kDzXn1P1M9-ujDOQG5tnrEb77V?usp=drive_link">code repository</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 22, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
       </li>
       <!-- 6 -->
       <li class="list-group-item">
-          <i class="far fa-square"></i> <!--<i class="far fa-square"></i> --> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architectures</b> (2h+1h): <a href="">slides</a> and <a href="">code repository</a>
+          <i class="far fa-square"></i> <!--<i class="far fa-square"></i> --> <b>5. PINN with nVidia modulus - Part II custom geometry & different NN architectures</b> (2h+1h): <a href="https://docs.google.com/presentation/d/1066fZ1yVew1FAD-caXJdYpaw9qh-2_tU_3WZeG2OlDQ/edit?usp=drive_link">slides</a> and <a href="https://drive.google.com/drive/folders/1vpXnU7LF8T40fcjS6ohwKlhg2mevWSra?usp=drive_link">code repository</a>
           <br>
           <i pad="10px" class="fa-regular fa-calendar-days" ></i> 09:30 -- 12:30, January 24, 2025.
           <i pad="10px" class="fa-solid fa-map-location-dot"></i> Aula 219,  Plesso Didattico Morgagni - viale Morgagni, 44-48, 50134 Firenze (FI).
