@@ -18,3 +18,64 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+// Make list-group-items theme-aware
+.list-group-item {
+  background-color: var(--global-card-bg-color) !important;
+  color: var(--global-text-color) !important;
+  border-color: var(--global-divider-color) !important;
+  
+  &:hover {
+    background-color: var(--global-hover-color) !important;
+  }
+}
+
+// Also ensure the list-group container is consistent
+.list-group {
+  background-color: var(--global-card-bg-color);
+}
+
+// Specifically for links inside cards/course content
+.card a,
+.list-group-item a {
+  color: var(--global-link-color);
+  
+  &:hover {
+    color: var(--global-link-hover-color);
+  }
+}
+
+// Table stuff
+
+// Table styling for theme support
+.table {
+  color: var(--global-text-color);
+  
+  thead.thead-light th {
+    background-color: var(--global-card-bg-color);
+    border-color: var(--global-divider-color);
+    color: var(--global-text-color);
+  }
+  
+  th, td {
+    border-color: var(--global-divider-color);
+  }
+  
+  // Alternate row colors
+  tbody tr:nth-of-type(odd) {
+    background-color: var(--global-hover-color);
+  }
+  
+  // For the grouped version with table-secondary
+  .table-secondary {
+    background-color: var(--global-hover-color);
+    color: var(--global-text-color);
+  }
+}
+
+// Responsive table wrapper
+.table-responsive {
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  overflow-x: auto;
+}
