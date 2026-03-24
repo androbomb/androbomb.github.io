@@ -36,6 +36,10 @@ I am also an Independent Expert for EU Research Executive Agency (REA) and Europ
 - 05/2022 -- 05/2023: Researcher: ML research: Responsible for the digital development and ideator of the AIRES-CH project; R&D: Lead full stack developer of the cloud-native Web services appearing in the 4CH cloud. INFN, CHNet, Firenze
 - 09/2020 -- 05/2022: Technological Researcher, Full-stack developer and Machine Learning researcher, INFN, CHNet, Firenze
 
+**Independent Expert experience**
+- 10/2023 -- now: Independent Expert for the EU Research Executive Agency (REA) [involved in 4 Horizon-CL2 calls]
+- 04/2024 -- now: Independent Expert for the  European Innovation Council and SMEs Executive Agency (EISMEA) [involved in 3 EIC-Accelerator open calls]
+
 **Research experience**:
 Scientific:
 - 10/2019 -- 12/2019: project assistant, Stockholms Universitet
