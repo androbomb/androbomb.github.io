@@ -1,58 +1,20 @@
 ---
 layout: page
-title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+title: projects
+description: Projects in chronological order.
 nav: false
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 5
 ---
+### Funded Projects 
+- (2025 - 2030): **Biogeographical Ancestry and Legal Integrity: Advancing Forensic Science through Genomic and Machine Learning Technique**, Collaborator, FIS3 awarded to Prof. [Elena Pilli](https://cercachi.unifi.it/p-doc2-0-0-A-3f2b3a30382e30-0.html).
+- (2023 - 2025): **Extended Computer Vision at High Rate**, Principal Investigator, Flagship 2.6.1. of ICSC, Spoke 2 WP6. 
+- (2023 - 2025): **Blending machine LEarning with advanced Numerical simulations: application to the sustainable exploitation of natural resources**, Responsible R&D, Innovation Grant ICSC, Spoke 2, in collaboration with ENI. 60k€
+- (2022 - 2024): **Artificial Intelligence for Digital Restoration of Cultural Heritage**, Ideator and Responsible of R&D, Funded by Regione Toscana, 30k€.
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+### Additional Research Projects
+- (2024 - now): 3D Computer vision for Ceramic fragment point cloud recognition, orientation regression, and pairing.
+- (2024 - now): Advanced 2.5D Computer Vision with attention-free neural operators for MRI-to-sCT image-to-image generation.
+- (2023 - now): Physics Informed Neural Network and Neural Operators for 3D Diamond detectors modelisation. 
+- (2023 - now): Computer Vision deep learning methods for Spectral datacubes analysis with focus on Cultural Heritage and Astrophysics
+- (2020 - now): Cloud native design, development, and deployment of web applications for data storage and data analysis of Nuclear Imaging data. 
