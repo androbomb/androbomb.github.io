@@ -20,3 +20,12 @@ nav: false
 {% include_relative talks_by_year/2024.html %}
 <hr> 
 
+<!-- 2023 -->
+## 2023
+{% include_relative talks_by_year/2023.html %}
+<hr> 
+
+<!-- 2022 -->
+## 2022
+{% include_relative talks_by_year/2022.html %}
+<hr> 
