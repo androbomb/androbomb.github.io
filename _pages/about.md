@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.supercomputing-icsc.it/en/icsc-home/'>INFN & ICSC - National Research Centre for High Performance Computing, Big Data and Quantum Computing</a>
+subtitle: <a href='https://www.supercomputing-icsc.it/en/icsc-home/'>Technological Researcher @ INFN & ICSC - National Research Centre for High Performance Computing, Big Data and Quantum Computing</a>
 
 profile:
   align: right
-  image: alessandro-bombini.jpg
+  image: ale_gattoni_squared.jpeg #alessandro-bombini.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Ufficio: FS-135, DF-256</p>
@@ -47,6 +47,6 @@ Scientific:
 - 10/2016 -- 09/2019: Researcher at Istituto Nazionale di Fisica Nucleare (INFN), sez. Padova
 
 **Education**:
-- 2019: Ph. D. in Physics, Università di Padova
+- 2019: Ph. D. & Doctor Europaeus in Physics, Università di Padova, Excellent
 - 2016: M. Sc. in Theoretical Physics, 110/110 e Lode, Università di Firenze
 - 2013: B. Sc. in Physics & Astrophysics, 110/110 e Lode, Università di Firenze
