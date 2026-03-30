@@ -3,7 +3,7 @@
     "name": "Alessandro Bombini",
     "label": "Technologist",
     "image": "",
-    "email": "bombini@fi.infn.it",
+    "email": "<a href='mailto:bombini@fi.infn.it' style='color: #0000FF'>bombini _AT_ fi.infn.it</a>",
     "phone": "",
     "url": "https://androbomb.github.io/",
     "summary": "",
@@ -14,36 +14,36 @@
       "countryCode": "Italy",
       "region": ""
     },
-    "CV": "<a href='https://docs.google.com/document/d/1Zqj9rpuIkqFyH7V_geIt8sK_NEsbJDT47uCoL8daqoM/edit?usp=sharing' target='_blank'>Full Academic CV (in Italian)</a>",
+    "CV": "<a href='/assets/pdf/Bombini_Curriculum_Vitae_extended.pdf' target='_blank' style='color: #0000FF'>Full Academic CV (in Italian)</a>",
     "profiles": [
     ]
   },
   "work": [
-    {
-      "name": "ICSC - Centro Nazionale di Ricerca in HPC, Big Data e Quantum Computing",
-      "position": "Associato",
-      "url": "https://www.supercomputing-icsc.it",
-      "startDate": "2023-05-15",
-      "endDate": "",
-      "summary": "He works as a fixed-term technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within Spoke 2 'Fundamental Research', WP2 'High Energy Physics' and WP6 'Industrial Applications & Space Economy'. He acts as Principal Investigator (PI) for the Flagship of 2.6.1. Fast Extended Computer Vision dedicated to distributed computing applications for the inference of neural networks dedicated to artificial vision on physical imaging. Collaborates within the WP2 Innovation Grant dedicated to Physics Informed Neural Networks applications on the LHCb project 'Flash simulations of resistive solid state detectors'.  He collaborates as a member of the specific INFN initiative dedicated to artificial intelligence AI_INFN, where he also acts as a teacher for Hackathons.",
-      "highlights": [
-        "Deep Learning",
-        "Cloud Computing",
-        "Research",
-        "Distributed Computing"
-      ]
-    } ,
     {
       "name": "Istituto Nazionale di Fisica Nucleare",
       "position": "Tecnologo a tempo determinato",
       "url": "https://home.infn.it",
       "startDate": "2023-05-15",
       "endDate": "",
-      "summary": "He works as a fixed-term technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within Spoke 2 'Fundamental Research', WP2 'High Energy Physics' and WP6 'Industrial Applications & Space Economy'. He acts as Principal Investigator (PI) for the Flagship of 2.6.1. Fast Extended Computer Vision dedicated to distributed computing applications for the inference of neural networks dedicated to artificial vision on physical imaging. Collaborates within the WP2 Innovation Grant dedicated to Physics Informed Neural Networks applications on the LHCb project 'Flash simulations of resistive solid state detectors'.  He collaborates as a member of the specific INFN initiative dedicated to artificial intelligence AI_INFN, where he also acts as a teacher for Hackathons.",
+      "summary": "As above.",
       "highlights": [
         "Deep Learning",
         "Cloud Computing",
         "Research", 
+        "Distributed Computing"
+      ]
+    } ,
+    {
+      "name": "ICSC - Centro Nazionale di Ricerca in HPC, Big Data e Quantum Computing",
+      "position": "Associato",
+      "url": "https://www.supercomputing-icsc.it",
+      "startDate": "2023-05-15",
+      "endDate": "",
+      "summary": "I work as a fixed-term technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within Spoke 2 'Fundamental Research', WP2 'High Energy Physics' and WP6 'Industrial Applications & Space Economy'. I am Principal Investigator (PI) of the Flagship of 2.6.1. Fast Extended Computer Vision dedicated to distributed computing applications for the inference of neural networks dedicated to artificial vision on physical imaging. I Collaborate within the WP2 Innovation Grant dedicated to Physics Informed Neural Networks applications on the LHCb project 'Flash simulations of resistive solid state detectors'.  I am also a member of the specific INFN initiative dedicated to artificial intelligence AI_INFN, where he also acts as a teacher for Hackathons.",
+      "highlights": [
+        "Deep Learning",
+        "Cloud Computing",
+        "Research",
         "Distributed Computing"
       ]
     } ,
