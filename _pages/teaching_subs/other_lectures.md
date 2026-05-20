@@ -1,6 +1,42 @@
 
 <h3 class="mt-4">Lectures</h3>
 
+<!-- 2026  NeuralOps @ Michele&Sandra  -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          Lecture held within the UniFi course "ANALISI DELLE IMMAGINI E COMPUTER VISION CON APPLICAZIONI ALLE SCIENZE FISICHE"
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>May, 25th, 2026</i>, (Firenze).
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  2 hrs
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b>Neural Operators for Computer Vision - <i>Crafting Attention without Attention mechanism</i>
+          </p>
+              <a href="https://docs.google.com/presentation/d/1KYqBNU736voMC59o-ZeyJm4eJ10Jprai79K8rVkQnpQ/edit?usp=sharing">Slides.</a> 
+        </li> 
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 <!-- 2026  BPAI  -->
 <div class="card mt-3">
   <div class="p-3">
@@ -109,8 +145,6 @@
 </div>
 
 <!-- 2024 Scuola dell'Equinozio -->
-
-
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
