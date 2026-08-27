@@ -1,6 +1,44 @@
 
 <h3 class="mt-4">Lectures</h3>
 
+
+<!-- 2026  ICTP  -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          Lecture held within the ICTP School "College on Medical Physics 2026 | (smr 4232)"
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Invited Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>August, 26th, 2026</i>, (Trieste). Agenda: <a href="https://indico.ictp.it/event/11158/other-view?view=ictptimetable"> link</a>.
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  2 hrs
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b> Introduction to CNN in Medical Imaging (with GradCAM ex-post analysis)
+          </p>
+              <a href="https://docs.google.com/presentation/d/1lo1HJWO7jpBt0yndNPgF_oKcjq6Wp5VqGKgLpgKCXmE/edit?usp=sharing">Slides.</a> 
+              <a href="https://github.com/androbomb/ICTP-College-on-Medical-Physics-2026-AI-basics-concepts">GitHub repo with code.</a> 
+        </li> 
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 <!-- 2026  NeuralOps @ Michele&Sandra  -->
 <div class="card mt-3">
   <div class="p-3">
