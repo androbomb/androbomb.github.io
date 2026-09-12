@@ -7,6 +7,7 @@ nav: false
 ---
 <!-- 2026 -->
 ## 2026
+{% include_relative talks_by_year/2026.html %}
 
 <hr> 
 <!-- 2025 --> 
