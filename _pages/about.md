@@ -20,25 +20,28 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-About Me: 
+**About Me:**
+
 I began my research activity during my master's, dedicating myself to the study of theoretical aspects in black hole physics. During the three years of Ph.D. I conducted research in the context of Theoretical High Energy Physics. I continued my research moving to the University of Stockholm, where I work for three months as a project assistant.
 
 Currently, I work as a Researcher at the INFN in the network devoted to the application of nuclear techniques to Cultural Heritage, the so-called Cultural Heritage Network (CHNet), where I am responsible for the research and development of digital infrastructure and web services for the CHNet's Digital Heritage Laboratory (DHLab), within the EU projects European EOSC-Pillar, Ariadne+, and 4CH.
 
 I am also the Responsible of the Digital development and ideator of the Artificial Intelligence for digital REStoration of Cultural Heritages (AIRES-CH) project, funded by a grant of Tuscany Region; AIRES-CH aims at building a web-based app for the digital restoration of pictorial artworks through Computer Vision technologies applied to nuclear imaging raw data. Two papers were already published about AIRES-CH.
 
-I currently work as a technologist at the INFN Florence section, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within the Spoke 2 "Fundamental Research", WP2 "High Energy Physics" and WP6 "Industrial Applications & Space Economy"; I am also principal investigator for the Flaghsip 2.6.1 "Extended Computer Vision at High Rate", where we devised distributed computing approaches for ad hoc trained deep neural network computer vision models on physics-related tasks. 
+I currently work as a technologist at the INFN Florence unit, within the National Center 1 - ICSC National Research Center in High Performance Computing, Big Data and Quantum Computing, within the Spoke 2 "Fundamental Research", WP2 "High Energy Physics" and WP6 "Industrial Applications & Space Economy"; I am also principal investigator for the Flaghsip 2.6.1 "Extended Computer Vision at High Rate", where we devised distributed computing approaches for ad hoc trained deep neural network computer vision models on physics-related tasks. 
 
-I am also an Independent Expert for EU Research Executive Agency (REA) and European Innovation Council and SMEs Executive Agency (EISMEA).
+I am also an Independent Expert and Reviewer for EU Research Executive Agency (REA) and European Innovation Council and SMEs Executive Agency (EISMEA).
 
 **Technological Research experience**
-- 05/2023 -- now: Tecnologo: ML research @ ICSC; PI "Fast Extended Computer Vision" 
-- 05/2022 -- 05/2023: Researcher: ML research: Responsible for the digital development and ideator of the AIRES-CH project; R&D: Lead full stack developer of the cloud-native Web services appearing in the 4CH cloud. INFN, CHNet, Firenze
-- 09/2020 -- 05/2022: Technological Researcher, Full-stack developer and Machine Learning researcher, INFN, CHNet, Firenze
+- 05/2026 -- now: **Tecnologo** III livello (permanent), INFN Florence Unit: ML/DL research; associated to AI_INFN; associated member to the ICT and Cybersecurity team.
+- 05/2023 -- 04/2026: **Tecnologo** fixed time: ML research @ ICSC; PI "Fast Extended Computer Vision" 
+- 05/2022 -- 05/2023: **Researcher**: ML research: Responsible for the digital development and ideator of the AIRES-CH project; R&D: Lead full stack developer of the cloud-native Web services appearing in the 4CH cloud. INFN, CHNet, Firenze
+- 09/2020 -- 05/2022: **Technological Researcher**, Full-stack developer and Machine Learning researcher, INFN, CHNet, Firenze
 
 **Independent Expert experience**
-- 10/2023 -- now: Independent Expert for the EU Research Executive Agency (REA) [involved in 4 Horizon-CL2 calls]
-- 04/2024 -- now: Independent Expert for the  European Innovation Council and SMEs Executive Agency (EISMEA) [involved in 3 EIC-Accelerator open calls]
+- 07/2026 -- now: Independent **Reviewer** for the EU Research Executive Agency (REA) [involved in the revision of 1 Horizon-CL2-ECCCH call]
+- 10/2023 -- now: Independent **Expert** for the EU Research Executive Agency (REA) [involved in 4 Horizon-CL2 calls]
+- 04/2024 -- now: Independent **Expert** for the  European Innovation Council and SMEs Executive Agency (EISMEA) [involved in 3 EIC-Accelerator open calls]
 
 **Research experience**:
 Scientific:
