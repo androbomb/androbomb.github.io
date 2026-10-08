@@ -65,7 +65,7 @@
             </div>
           </div>
           <p>
-            <b>Title:</b>Neural Operators for Computer Vision - <i>Crafting Attention without Attention mechanism</i>
+            <b>Title:</b> Neural Operators for Computer Vision - <i>Crafting Attention without Attention mechanism</i>
           </p>
               <a href="https://docs.google.com/presentation/d/1KYqBNU736voMC59o-ZeyJm4eJ10Jprai79K8rVkQnpQ/edit?usp=sharing">Slides.</a> 
         </li> 
