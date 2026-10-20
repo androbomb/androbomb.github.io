@@ -1,6 +1,41 @@
 
 <h3 class="mt-4">Lectures</h3>
 
+<!-- 2026 ML4Phys -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          Lecture held within the UniFi course "ML for Physicists"
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>November, 19th, 2026</i>, (Firenze).
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  2 hours
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b> Introduction to Graph Neural Networks <i>for physicists</i> (with applications to Cultural Heritage)
+          </p>
+              <a href="https://docs.google.com/presentation/d/1DCP2RA8gGOnthgnk9KlyAgRFb0oNVdxvPKygwLVGtSI/edit?usp=sharing">Slides.</a> 
+        </li> 
+      </ul>
+    </div>
+  </div>
+</div>
+
 
 <!-- 2026  ICTP  -->
 <div class="card mt-3">
@@ -110,7 +145,7 @@
   </div>
 </div>
 
-<!-- ML4Phys -->
+<!-- 2025 ML4Phys -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -145,9 +180,7 @@
   </div>
 </div>
 
-
 <!-- 2025 Scuola dell'Equinozio -->
-
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -218,8 +251,6 @@
 </div>
 
 <!-- 2023 Alghero -->
-
-
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">

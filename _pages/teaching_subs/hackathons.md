@@ -1,5 +1,42 @@
 <h3 class="mt-4">Hackathons</h3>
 
+<!-- 2026 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">
+          ML-INFN Hackathons. Advanced Level         
+        </h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer</h6>
+    <div class="col-sm-10">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <!-- >  FITH <!-->
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-10">
+              <i>December, 1st, 2026</i>, (Ferrara) Agenda: <a href="https://agenda.infn.it/event/53025/"> link</a>.
+            </div>
+            <div class="col-sm-2 text-left text-sm-right">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+                  3° AI-INFN Advanced Edition
+              </span>
+            </div>
+          </div>
+          <p>
+            <b>Title:</b> Introduction to Graph Neural Networks <i>for physicists</i>
+          </p>
+              <a href="https://docs.google.com/presentation/d/1eN8CbeIH6pNX3WNsJ0O92evebc87IsmX782wEWikHTY/edit?usp=sharing">Slides.</a> 
+        </li> 
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<!-- 2025 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -31,10 +68,10 @@
         </li> 
       </ul>
     </div>
-    
   </div>
 </div>
 
+<!-- 2023 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -66,11 +103,11 @@
               <a href="https://github.com/landerlini/mlinfn-advanced-hackathon">GitHub repo with notebooks.</a> 
         </li> 
       </ul>
-    </div>
-    
+    </div> 
   </div>
 </div>
 
+<!-- 2023-2022-2021 -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
@@ -138,6 +175,5 @@
           </li>  
       </ul>
     </div>
-    
   </div>
 </div>
