@@ -43,8 +43,11 @@ I am also an Independent Expert and Reviewer for EU Research Executive Agency (R
 - 10/2023 -- now: Independent **Expert** for the EU Research Executive Agency (REA) [involved in 4 Horizon-CL2 calls]
 - 04/2024 -- now: Independent **Expert** for the  European Innovation Council and SMEs Executive Agency (EISMEA) [involved in 3 EIC-Accelerator open calls]
 
-**Research experience**:
-Scientific:
+**Other experience**
+- 10/2026 -- now: **Associate Editor** for [*The European Physical Journal Plus* (EPJ+)](https://link.springer.com/journal/13360/), as an AI expert for the section *“Cultural Heritage: Physical Archaeometry and Analysis of Ancient Materials”*.
+- 09/2023: **Organiser** of the first edition of the [*Beyond Vision: Physics meets AI* (BVPAI)](https://physicsmeetsai.github.io/beyond-vision/) workshop, held withing the [2023 edition of the *International Conference for Image Analysis and Processing* (ICIAP2023)](https://sites.google.com/view/iciap-2023/workshops-tutorials?pli=1&authuser=0). [LinkedIn page of the workshop (link)](https://www.linkedin.com/company/bvpai2023/).
+
+**Previous Research experience**:
 - 10/2019 -- 12/2019: project assistant, Stockholms Universitet
 - 01/2019 -- 04/2019: Visiting Scientist, IPhT, CEA, Paris Saclay
 - 10/2016 -- 09/2019: Researcher at Istituto Nazionale di Fisica Nucleare (INFN), sez. Padova
